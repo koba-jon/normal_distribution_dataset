@@ -48,12 +48,12 @@ test_anomaly
 $ vi create.sh
 ```
 
-`--dir` : output directory
-`--num` : total number of data
-`--dim` : dimensions on one data
-`--mean` : mean of Normal Distribution
-`--std` : standard deviation of Normal Distribution
-`--seed` : seed of random number
+`--dir` : output directory <br>
+`--num` : total number of data <br>
+`--dim` : dimensions on one data <br>
+`--mean` : mean of Normal Distribution <br>
+`--std` : standard deviation of Normal Distribution <br>
+`--seed` : seed of random number <br>
 
 ```
 #!/bin/bash
