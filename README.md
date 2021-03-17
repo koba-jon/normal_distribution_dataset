@@ -45,6 +45,11 @@ test_anomaly
 ### Create Dataset
 
 ```
+$ sudo apt install python3 python3-pip
+$ pip3 install numpy
+```
+
+```
 $ vi create.sh
 ```
 
