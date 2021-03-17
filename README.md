@@ -50,7 +50,7 @@ $ pip3 install numpy
 ```
 
 ```
-$ vi create.sh
+$ vi scripts/create.sh
 ```
 
 `--dir` : output directory <br>
@@ -77,5 +77,5 @@ python3 ${SCRIPT_DIR}/create.py \
 ```
 
 ```
-$ sh create.sh
+$ sh scripts/create.sh
 ```
