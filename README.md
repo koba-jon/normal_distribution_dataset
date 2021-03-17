@@ -26,7 +26,7 @@ train
 
 - test : test data (1,000 pieces) of 300 dimensions
 ```
-test_normal
+test
 |--000.dat
 |--001.dat
 |  ...
